@@ -1,34 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-/******************************
-
-[Table of Contents]
-
-1. Fonts
-2. Body and some general stuff
-3. Header
-	3.1 Logo
-	3.2 Main Navigation
-	3.3 Weather and Search
-	3.4 Hamburger
-4. Menu
-5. Home
-	5.1 Home Slider
-6. Main Content
-7. Section Panel
-8. Cards
-9. Videos
-10. Load More Button
-11. Sidebar
-12. Footer
-
-
-******************************/
-
-/***********
-1. Fonts
-***********/
+/
 
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700|Work+Sans:300,400,500,600,700,800,900');
 
